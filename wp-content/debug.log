@@ -1,0 +1,13 @@
+[29-Jun-2021 00:24:13 UTC] WordPress database error Incorrect column specifier for column 'sscGpa' for query CREATE TABLE _dummy__jnew_admission_info_customize_tbl (
+        id INT(250) NOT NULL AUTO_INCREMENT,
+        universityName TEXT(250) NOT NULL,
+        unitName TEXT(250) NOT NULL,
+        sscGpa FLOAT(250) NOT NULL,
+        sscGroup TEXT(250) NOT NULL,
+        hscGpa FLOAT(250) NOT NULL,
+        hscGroup TEXT(250) NOT NULL,
+        totalGpa FLOAT(250) NOT NULL,
+        admission_date TEXT(250) NOT NULL,
+        post_publish TEXT(250) NOT NULL,
+        PRIMARY KEY  (id)
+    )DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_Admission-info/admission_info.php'), WP_Hook->do_action, WP_Hook->apply_filters, rownodfhaoer, dbDelta

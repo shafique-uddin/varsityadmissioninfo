@@ -1,0 +1,8 @@
+2021-04-07T06:57:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\myversitypathinfo\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-04-07T06:59:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\myversitypathinfo\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-04-07T07:01:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\myversitypathinfo\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-04-07T12:30:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\myversitypathinfo\wp-includes\Requests\Transport\cURL.php on line 441
+
