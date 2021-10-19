@@ -1,0 +1,4 @@
+db name -
+db password -
+table_prefix =
+table name =
