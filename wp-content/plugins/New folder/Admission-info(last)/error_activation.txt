@@ -1,0 +1,16 @@
+<div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Incorrect column specifier for column &#039;sscGpa&#039;]<br /><code>CREATE TABLE _dummy_admission_varsity_info (
+        id INT(250) NOT NULL AUTO_INCREMENT,
+        universityName TEXT(250) NOT NULL,
+        unitName TEXT(250) NOT NULL,
+        sscGpa FLOAT(250) NOT NULL,
+        sscGroup TEXT(250) NOT NULL,
+        hscGpa FLOAT(250) NOT NULL,
+        hscGroup TEXT(250) NOT NULL,
+        totalGpa FLOAT(250) NOT NULL,
+        admission_date TEXT(250) NOT NULL,
+        post_publish TEXT(250) NOT NULL,
+        PRIMARY KEY  (id)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci</code></p></div><br />
+<b>Warning</b>:  Undefined variable $admission_varsity_info_db_version_neww in <b>E:\xampp\htdocs\myversitypathinfo\wp-content\plugins\Admission-info\inc\admission_info_db_install.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $admission_varsity_info_db_version_neww in <b>E:\xampp\htdocs\myversitypathinfo\wp-content\plugins\Admission-info\inc\admission_info_db_install.php</b> on line <b>33</b><br />
