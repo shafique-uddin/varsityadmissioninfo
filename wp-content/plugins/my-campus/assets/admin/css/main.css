@@ -1,0 +1,20 @@
+.mycampus-input-field input[type=text] {
+    width: 100%!important;
+    margin-bottom: 8px;
+}
+
+.mycampus-title p {
+    margin: 0px;
+}
+
+.mycampus-input-label label, .mycampus-title p {
+    line-height: 27px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 3px;
+}
+
+.mycampus-input-field-radio {
+    margin-bottom: 8px;
+    margin-left: 10%;
+}

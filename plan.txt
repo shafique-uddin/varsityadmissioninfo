@@ -1,0 +1,1 @@
+1 Delete data from database by deleting trash file in wordpress

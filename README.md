@@ -1,1 +1,2 @@
-# varsityadmissioninfo
+# myversitypathinfo
+ Versity Infromation Website
